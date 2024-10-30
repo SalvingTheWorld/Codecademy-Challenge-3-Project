@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 540 540)" id="723f0f79-12e4-40bc-a5b4-530844feab3e"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="ccfdf28a-4223-4eb5-97c6-7527be7c3986"  >
+</g>
+<g transform="matrix(0.93 0 0 0.93 510.93 515.39)" style="filter: url(#SVGID_134);" id="6a21f198-bba1-44d3-a972-751bd0b45bf0"  >
+<filter id="SVGID_134" y="-28%" height="156%" x="-21%" width="142%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="3"></feGaussianBlur>
+	<feOffset dx="0" dy="0" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(19,18,18)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+		<text xml:space="preserve" font-family="Raleway" font-size="65" font-style="normal" font-weight="900" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(245,238,238); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-333.74" y="20.42" >F</tspan><tspan x="-293.05" y="20.42" >a</tspan><tspan x="-248.27" y="20.42" >k</tspan><tspan x="-206.28" y="20.42" >e</tspan><tspan x="-160.84" y="20.42" style="white-space: pre; "> </tspan><tspan x="-140.37" y="20.42" >C</tspan><tspan x="-89.93" y="20.42" >o</tspan><tspan x="-44.17" y="20.42" >m</tspan><tspan x="22.78" y="20.42" >p</tspan><tspan x="70.69" y="20.42" >a</tspan><tspan x="115.47" y="20.42" >n</tspan><tspan x="161.17" y="20.42" >y</tspan><tspan x="203.09" y="20.42" style="white-space: pre; "> </tspan><tspan x="223.57" y="20.42" >I</tspan><tspan x="250.02" y="20.42" >n</tspan><tspan x="296.24" y="20.42" >c</tspan></text>
+</g>
+</svg>
