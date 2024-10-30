@@ -149,7 +149,7 @@ a:hover{
     padding-top: 0.32rem;
     color: var(--primary-text-color);
     text-shadow: var(--text-shadow);
-    background-image: url(tech-building.png);
+    background-image: url(./images/tech-building.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
